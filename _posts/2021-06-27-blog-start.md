@@ -1,12 +1,10 @@
 ---
-layout : post
-title: "블로그 시작!"
+title: GitHub 블로그 시작!
+layout: single
+read_time: true
+comments: true
 categories:
-  - Blog
-tags:
-  - jekyll
-  - github
-  - markup
+- Jekyll
 toc: true
 ---
 
