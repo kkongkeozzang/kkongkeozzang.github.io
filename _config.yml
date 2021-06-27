@@ -24,7 +24,7 @@ description              : "1도 모르는 비전공 개발자 <br> 우당탕탕
 url                      : "https://kkongkeozzang.github.io/" # GitBlog 호스트 주소
 baseurl                  : # subPath https://kkongkeozzang.github.io/blog라고 하고 싶을 시 "/blog" 라고 적는다.
 repository               : "kkongkeozzang/kkongkeozzang.github.com" # GitHub username/repo-name
-teaser                   : # "/assets/images/senior-couple-4723737_640.jpg" # 홈페이지 기본 티져 이미지
+teaser                   : "/assets/images/coffee.jpg" # 홈페이지 기본 티져 이미지
 logo                     : # 타이틀 옆에 작게 들어갈 이미지.
 masthead_title           : "비전공 초보의 개발 Blog" # 홈페이지 최 상탄에 들어갈 타이틀
 breadcrumbs              : true # 브래드크럼 사용 여부 true, false (default) , _data/ui-text.yml에 다국어 지원 가능합니다.
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "KKONG"
-  avatar           : # "/assets/images/profile/poto.jpg" # 프로필 이미지
+  avatar           : "/assets/images/coffee.jpg" # 프로필 이미지
   bio              : "1도 모르는 비전공 개발자 <br> 우당탕탕 개발 공부 Blog"
   location         : "Republic of Korea"
   email            : "suzie1642@gmail.com"
