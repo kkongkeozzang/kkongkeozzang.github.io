@@ -7,7 +7,6 @@ tags:
   - jekyll
   - github
   - markup
-toc: true
 ---
 
 비전공 초보 개발자로서 git에 대해 1도 모르면서 무턱대고 `Blog`를 따라 만들어보았다.
