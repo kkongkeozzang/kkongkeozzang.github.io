@@ -7,7 +7,7 @@ tags:
   - jekyll
   - github
   - markup
-last_modified_at:
+last_modified_at: 2021-06-28 12:57:00 +0900 
 ---
 
 비전공 초보 개발자로서 git에 대해 1도 모르면서 무턱대고 `Blog`를 따라 만들어보았다. 
