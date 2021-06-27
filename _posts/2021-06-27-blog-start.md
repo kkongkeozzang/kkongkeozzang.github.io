@@ -1,5 +1,5 @@
 ---
-title: GitHub 블로그 시작!
+title: GitHub 블로그 시작
 layout: single
 read_time: true
 comments: true
