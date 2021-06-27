@@ -1,5 +1,6 @@
 ---
-title: 블로그 시작!
+layout : post
+title: "블로그 시작!"
 categories:
   - Blog
 tags:
