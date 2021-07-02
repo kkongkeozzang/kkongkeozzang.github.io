@@ -2,7 +2,7 @@
 title: "Leetcode 시작하기"
 excerpt_separator: "<!--more-->"
 categories:
-  - blog
+  - Blog
 tags:
   - algorithm
 ---
