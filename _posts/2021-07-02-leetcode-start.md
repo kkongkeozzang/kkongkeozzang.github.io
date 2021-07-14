@@ -3,8 +3,10 @@ title: "Leetcode 시작하기"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
-tags:
   - algorithm
+  - leetcode
+tags:
+
 ---
 
 
