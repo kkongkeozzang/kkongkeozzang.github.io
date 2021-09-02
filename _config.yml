@@ -21,7 +21,7 @@ title_separator          : "&#124;" # 타이틀 사이 구분자 <title>Welcome 
 subtitle                 : # 타이틀 아래에 나올 작은 글씨
 name                     : "KKONG" # 맨 하단 이름 찍히는 영역
 description              : "1도 모르는 비전공 개발자 <br> 우당탕탕 개발 공부 Blog" # Meta 태그에 들어가는 영역 
-url                      : "https://kkongkeozzang.github.io" # GitBlog 호스트 주소
+url                      : "https://kkongkeozzang.github.io/" # GitBlog 호스트 주소
 baseurl                  : # subPath https://kkongkeozzang.github.io/blog라고 하고 싶을 시 "/blog" 라고 적는다.
 repository               : "kkongkeozzang/kkongkeozzang.github.com" # GitHub username/repo-name
 teaser                   : "/assets/images/coffee.jpg" # 홈페이지 기본 티져 이미지
